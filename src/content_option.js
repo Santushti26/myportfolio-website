@@ -4,6 +4,7 @@ const meta = {
     description: "I’m Santushti, UI UX Designer and Full Stack Web Developer ,currently in Btech final Year",
 };
 
+import profileImage from "./assets/images/profile_pic.jpg";
 const introdata = {
     title: "I’m Santushti",
     animated: {
@@ -12,7 +13,8 @@ const introdata = {
         third: "I am a Full Stack Web Developer",
     },
     description: "A passionate UI/UX designer crafting intuitive and visually appealing designs. My portfolio showcases innovative projects blending creativity and technical expertise for seamless user experiences.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: profileImage,
+    
 };
 
 const dataabout = {
@@ -149,11 +151,11 @@ const contactConfig = {
     YOUR_EMAIL: "santushtiranjan@gmail.com",
     YOUR_FONE: "+91 9968612220",
     description: "I am Santushti Ranjan, a passionate UI/UX designer with a knack for creating intuitive and visually stunning designs. With a strong foundation in full-stack development, I blend creativity with technical expertise to craft seamless user experiences. My portfolio highlights innovative projects that reflect my commitment to excellence and design-driven problem-solving. Explore my journey and discover how I bring ideas to life through design! ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
+    // emailjs.com account 
+    //  https://www.emailjs.com/docs/examples/reactjs/
+    YOUR_SERVICE_ID: "service_m7kij5j",
     YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_USER_ID: "Santushti",
 };
 
 const socialprofils = {

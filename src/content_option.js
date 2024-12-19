@@ -83,11 +83,13 @@ const services = [{
         description: "I develop responsive and dynamic web applications, ensuring a seamless user experience from front-end to back-end. With expertise in technologies like React, Node.js, and MongoDB, I build scalable and secure solutions tailored to specific requirements. My goal is to create functional, user-friendly websites that align with modern web standards.",
     },
 ];
-
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+import profileImage1 from "./assets/images/Frame 11.png";
+const dataportfolio = [
+    
+    {
+        your_img_url: profileImage1,
+        description: "GLAMOR DEKHO - Experience Virtual Fashion Shows and Perfect Fits, Instantly.",
+        link: "https://www.behance.net/gallery/214866829/GLAMOR-DEKHO",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
